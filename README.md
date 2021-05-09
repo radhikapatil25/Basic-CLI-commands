@@ -3,5 +3,7 @@ The basic linux,git,ssh CLI commands to work with the linux. Includes some short
 Every person working with the linux should know some basic commands.
 
 The very basic linux commands are provided in
-- [Linux handy commands](Handy-linux-commands.md)
-- [ssh-client and commands](ssh-client and commands.md)
+- [Linux handy commands](Handy-linux-commands.md)  
+
+SSH client and commands are provided in
+- [ssh client commands](ssh-client-and-commands.md)
