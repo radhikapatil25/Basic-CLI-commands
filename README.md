@@ -6,4 +6,4 @@ The very basic linux commands are provided in
 - [Linux handy commands](Handy-linux-commands.md)  
 
 SSH client and commands are provided in
-- [ssh client commands](ssh-client-and-commands.md)
+- [SSH client commands](ssh-client-and-commands.md)
