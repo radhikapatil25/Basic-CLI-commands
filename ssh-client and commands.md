@@ -38,11 +38,11 @@ The different connections can be made as following:
 1. Click on session, once you click it will popu another window ,wherein you can see the different remote connections.
 2. Click on ssh connection.
 
-![SSH connection](images/sshsession.jpg)
+![SSH connection](sshsession.JPG)
 
 3. Once clicked on SSH , you can provide the IP address and username and click OK.
 
-![SSH connection](images/Ipaddress.jpg)
+![SSH connection](Ipaddress.JPG)
 
 
 
