@@ -15,12 +15,13 @@ When dealing with multiple ssh machines, remembering all the IP addresses become
 This can be done from `~/.ssh/config` file.  
 
 *Example:*
-```Host remote1
+```
+Host remote1
     HostName adc
     User usr1
     IP address 10.0.0.9
     Port 4420
-   Host remote2
+Host remote2
     HostName trd
     User usr2
     IP address 10.0.1.9
