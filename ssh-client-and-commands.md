@@ -45,5 +45,17 @@ The different connections can be made as following:
 
 ![SSH connection](Ipaddress.JPG)
 
+# How to use `scp` command
+- The `scp` (secure copy) command helps in copying the files securely between two systems.
+- The `scp` command can be issued when the remote account details are known. 
+- once the `scp` command is issued , it will prompt for the password, after authentication, the file will be copied securely to the destination system. 
+
+*Example:*  
+```
+$scp filepath host@ipaddress:remotepath
+$scp /home/usr/myproj/myfil.txt rad@10.9.8.0:/home/usr/downloads
+$scp -r /home/usr/myproj rad@10.9.8.0:/homw/usr/downloads (-r indicates recursive for the recirsive copy of subdirectories,files etc)
+```
+
 
 
